@@ -1,0 +1,15 @@
+{
+    "name": "plugin-node-datachannel",
+    "version": "0.0.1",
+    "description": "node-datachannel electron-forge plugin",
+    "repository": "https://github.com/murat-dogan/plugin-node-datachannel",
+    "author": "Murat Dogan",
+    "license": "MIT",
+    "main": "NodeDatachannelPlugin.js",
+    "engines": {
+        "node": ">= 12"
+    },
+    "dependencies": {
+        "@electron-forge/plugin-base": "6.4.2"
+    }
+}
